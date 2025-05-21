@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-✨ Full Stack Web Developer 📫 How to reach me: shwetaverma1404040@gmail.com <br>💬 Ask me about frontend and backend development
+<h1 align="center">Hi, I'm Shweta Verma</h1>
+<h3 align="center">✨ A passionate web developer from India</h3>
+ 📫 How to reach me: shwetaverma1404040@gmail.com <br>💬 Ask me about frontend and backend development
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaverma14" alt="shwetaverma14" /></a> </p>
+
+### ✍️ Random Dev Quote
 
 ## 🌐 Socials:
 
@@ -52,10 +58,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=shwetaverma14&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shwetaverma14&)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shwetaverma02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
