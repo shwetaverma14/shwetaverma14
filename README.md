@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/shwetaverma14/shwetaverma14/blob/main/graphics.jfif?raw=true" alt="Banner" />
+</p>
+
 <h1 align="center">Hi, I'm Shweta Verma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaverma14" alt="shwetaverma14" /></a> </p>
+
 
 - 🌱 I’m currently enhancing **my problem solving skills**
 
