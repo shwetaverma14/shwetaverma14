@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shwetaverma02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shwetaverma02&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaverma02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shwetaverma14&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shwetaverma14&show_icons=true&locale=en)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shwetaverma14&)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shwetaverma02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
