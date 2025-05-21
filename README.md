@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<h1 align="center">Hi, I'm Shweta Verma</h1>
+<h2 align="center">Hi, I'm Shweta Verma</h2>
 <h3 align="center">✨ A passionate web developer from India</h3>
- <p>📫 How to reach me: shwetaverma1404040@gmail.com </p><br>
- <p>💬 Ask me about frontend and backend development</p>
+<p>📫 How to reach me: shwetaverma1404040@gmail.com </p>
+<p>💬 Ask me about frontend and backend development</p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaverma14" alt="shwetaverma14" /></a> </p>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shwetaverma02&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
