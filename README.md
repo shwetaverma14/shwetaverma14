@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h2 align="center">Hi, I'm Shweta Verma</h2>
 <h3 align="center">✨ A passionate web developer from India</h3>
 <p>💬 Ask me about frontend and backend development</p>
+<p>📫 How to reach me: <a href="mailto:shwetaverma1404040@gmail.com">shwetaverma1404040@gmail.com</a></p>
+
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaverma14" alt="shwetaverma14" /></a> </p>
