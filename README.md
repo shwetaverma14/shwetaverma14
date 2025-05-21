@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <h1 align="center">Hi, I'm Shweta Verma</h1>
 <h3 align="center">✨ A passionate web developer from India</h3>
- 📫 How to reach me: shwetaverma1404040@gmail.com <br>💬 Ask me about frontend and backend development
+ <p>📫 How to reach me: shwetaverma1404040@gmail.com </p><br>
+ <p>💬 Ask me about frontend and backend development</p>
+
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaverma14" alt="shwetaverma14" /></a> </p>
 
-### ✍️ Random Dev Quote
+
 
 ## 🌐 Socials:
 
