@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <h2 align="center">Hi, I'm Shweta Verma</h2>
 <h3 align="center">✨ A passionate web developer from India</h3>
-<p>📫 How to reach me: shwetaverma1404040@gmail.com </p>
 <p>💬 Ask me about frontend and backend development</p>
 
 ## 🏆 GitHub Trophies
@@ -60,8 +59,26 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=shwetaverma14&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shwetaverma14&)
 
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Beyond the Code...
+
+When I’m not pushing commits or chasing bugs,  
+you’ll find me chasing ideas, building dreams, and turning 💡 into 💻.
+
+> “I don’t just write code. I craft experiences.”
+
+🌐 Let's connect, collaborate, and create tech that matters.  
+If my repos sparked your interest — don’t just star ⭐ them... let's talk!
+
+📬 [Drop a “Hey!” in my inbox](mailto:shwetaverma1404040@gmail.com)  
+🐾 Until then... keep learning, keep shipping, keep dreaming.
+
+![Thanks](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+🚀)
+
+---
+
+
 
 ---
 
